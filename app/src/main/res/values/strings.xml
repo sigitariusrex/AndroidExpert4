@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CinemaInt</string>
+    <string name="title_film">Film</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_favorite">Favorit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="movie">Selamat datang di halaman Movie</string>
+    <string name="film">Selamat datang di halaman Film</string>
+    <string name="favorite">Selamat datang di halaman Favorit</string>
+
+    <string name="lang">Selamat datang di CinemaGit</string>
+
+    <string name="films_name">Nama Film</string>
+    <string name="from">Asal</string>
+
+    <string name="movies_name">Nama Movie</string>
+    <string name="from_movie">Asal Movie</string>
+
+    <string name="favorites_name">Nama Favorit</string>
+    <string name="from_favorite">Asal Favorit</string>
+
+    <string name="favtitle_film">Favorit Acara TV</string>
+    <string name="favtitle_movie">Favorit Film</string>
+
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

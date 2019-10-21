@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CinemaInt</string>
+    <string name="title_film">TV Show</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="movie">Welcome to the Movie page</string>
+    <string name="film">Welcome to the Film page</string>
+    <string name="favorite">Welcome to the Favorite page</string>
+
+    <string name="lang">Welcome to the CinemaGit</string>
+
+    <string name="films_name">Movie Name</string>
+    <string name="from">From</string>
+
+    <string name="movies_name">Movie Name</string>
+    <string name="from_movie">Movie Origin</string>
+
+    <string name="favorites_name">Favorite Name</string>
+    <string name="from_favorite">Favorite Saved</string>
+
+    <string name="favtitle_film">Favorite TV Show</string>
+    <string name="favtitle_movie">Favorite Movie</string>
+
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+</resources>
